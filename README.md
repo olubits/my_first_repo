@@ -1,3 +1,3 @@
 # my_first_repo
-minor update
+minute update
 Practice account for learning Git
